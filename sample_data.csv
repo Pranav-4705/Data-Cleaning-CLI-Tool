@@ -1,0 +1,9 @@
+Name, Age, Email , Country, Salary
+John Doe, 29, john.doe@example.com, USA, 55000
+Jane Smith, , jane.smith@example.com , Canada, 72000
+John Doe, 29, john.doe@example.com, USA, 55000
+Mike  , 41, mike@gmail, UK, 65000
+Alicia  , 35, alicia@company.com, ,
+, 25, test@abc.com, India, 45000
+
+
